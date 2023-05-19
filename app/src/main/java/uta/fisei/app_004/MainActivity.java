@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
         else {
             Toast.makeText(this, "Debe ingresar el código",
                     Toast.LENGTH_SHORT).show();
+            
         }
         sql.close();
     }
