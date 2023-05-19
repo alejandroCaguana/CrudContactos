@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App_004</string>
+    <string name="textview_text_title">Mantenimiento: Contactos</string>
+    <string name="edittext_hind_code">Ingrese el Código</string>
+    <string name="edittext_hind_name">Ingrese el Nombre</string>
+    <string name="edittext_hind_lastname">Ingrese el Apellido</string>
+    <string name="edittext_hind_phone">Ingrese el Telefono</string>
+    <string name="edittext_hind_mail">Ingrese el Correo</string>
+
+    <string name="button_text_insert">Insertar</string>
+    <string name="button_text_search">Buscar</string>
+    <string name="button_text_delete">Eliminar</string>
+    <string name="button_text_update">Modificar</string>
+
+</resources>
